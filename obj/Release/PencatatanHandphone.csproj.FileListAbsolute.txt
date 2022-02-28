@@ -1,0 +1,10 @@
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\bin\Release\PencatatanHandphone.exe.config
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\bin\Release\PencatatanHandphone.exe
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\bin\Release\PencatatanHandphone.pdb
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.csproj.AssemblyReference.cache
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.JoshFormCell.resources
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.Properties.Resources.resources
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.csproj.GenerateResource.cache
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.csproj.CoreCompileInputs.cache
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.exe
+C:\Users\ifxny\source\repos\PencatatanHandphone\PencatatanHandphone\obj\Release\PencatatanHandphone.pdb
